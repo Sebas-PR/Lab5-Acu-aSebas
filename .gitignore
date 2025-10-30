@@ -1,0 +1,59 @@
+# Archivos de compilación
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+*.iobj
+*.ipdb
+*.pch
+
+# Directorios de salida de Visual Studio
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Archivos de usuario de Visual Studio
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Archivos de caché de IntelliSense
+*.VC.db
+*.VC.opendb
+*.VC.VC.opendb
+
+# Carpeta de configuración de usuario de Visual Studio
+.vs/
+
+# Archivos de ReSharper (si lo usas)
+_ReSharper*/
+*.ReSharper
+
+# Archivos temporales
+*.tmp
+*.temp
+*~
+
+# Archivos de sistema operativo
+Thumbs.db
+.DS_Store
+
+# Archivos de compilador intermedio
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Resultados de pruebas
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
